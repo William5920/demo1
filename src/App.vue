@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>测试将vue项目部署到linux服务器上去</h1>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
